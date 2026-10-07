@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "NitroStack Enterprise Search Template",
+  "description": "Enterprise MCP service optimized with BM25 progressive tool discovery",
   "scripts": {
     "dev": "nitrostack-cli dev",
     "build": "nitrostack-cli build",
@@ -18,11 +18,11 @@
     "zod": "^3.25.0"
   },
   "devDependencies": {
-    "@nitrostack/cli": "^1.1.0-beta.5",
+    "@nitrostack/cli": "^1.1.0-beta.6",
     "@types/node": "^22.10.0",
     "typescript": "^5.3.3"
   },
-  "author": "User",
+  "author": "",
   "nitrostack": {
     "skillsVersion": "1.0.0"
   }
